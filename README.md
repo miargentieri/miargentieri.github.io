@@ -8,4 +8,4 @@ This is a repository for output from my DPhil research at the University of Oxfo
 
 
 
-<a href="/correlation/correlation_table_full_dataset_oct_19_2021_men.html" title="correlation_table_full_dataset_oct_19_2021_men.html">Correlation table</a>
+<a href="https://miargentieri.github.io/correlation/correlation_table_full_dataset_oct_19_2021_men.html" target="_blank" title="Correlation table">Correlation table</a>
