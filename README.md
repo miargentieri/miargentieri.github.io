@@ -8,7 +8,7 @@ This is a repository for output from my DPhil research at the University of Oxfo
 
 CORRELATION ANALYSES
 
-1. <a target="_blank" rel="noopener noreferrer" href="https://miargentieri.github.io/correlation/correlation_table_full_dataset_oct_19_2021_men.html">Correlation table - UK Biobank men</a>
+1. <a target="_blank" rel="noopener noreferrer" href="http://miargentieri.github.io/correlation/correlation_table_all_vars_feb_22_2022_all_sexes.html">Correlation table - UK Biobank men</a>
 <br>
 <br>
 CLUSTER ANALYSES
